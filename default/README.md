@@ -247,7 +247,7 @@ Vous devez les placer dans le fichier « ./config/dockercron ».
 Exemple (dans « ./config/dockercron ») :
 ```
 *  *  *  *  * echo "hello" >> /var/log/docker/php/testcron.log
-*  *  *  *  * echo "hello projet" >> /usr/local/apache2/www/testcron.log
+*  *  *  *  * echo "hello projet" >> /home/www/testcron.log
 ```
 
 > [!NOTE]
