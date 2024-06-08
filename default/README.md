@@ -59,6 +59,7 @@ Pour Windows, Linux et Mac.
 Les versions :
 <ul>
   <li>nginx:1.26.0-perl</li>
+  <li>php:8.3.7RC1-fpm</li>
   <li>mariadb:10.4.18</li>
   <li>phpmyadmin:5.2.1</li>
   <li>mailhog:v1.0.0</li>
